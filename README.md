@@ -35,7 +35,7 @@ Currently working at Texas Instruments where I've delivered agentic AI conversat
 ### 🌟 Featured Projects
 
 - **[eto](https://github.com/mluth10/eto)** - Social nutrition app built with React Native, TypeScript, FastAPI, and PostgreSQL. Features include goal tracking, meal logging, and social sharing capabilities.
-- **AI Spotify Playlist Analyzer & Recommender** - AI-powered music recommendation system using RAG with Spotify data, Python, Vector Search, Hugging Face, and ChromaDB to deliver personalized, prompt-based song suggestions.
+- **[AI Spotify Playlist Analyzer & Recommender](https://github.com/mluth10/spotify_recommender)** - AI-powered music recommendation system using RAG with Spotify data, Python, Vector Search, and ChromaDB to deliver personalized, prompt-based song suggestions.
 - **Journaling Mobile iOS App** - React Native music journaling app integrating with Spotify & using LLMs to provide personalized mood insights. Built with TypeScript, Supabase, and OpenAI API.
 - **[nba_bot](https://github.com/mluth10/nba_bot)** - Python bot for NBA data and updates
 
